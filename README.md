@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- Header -->
+<h1 align="center">✨ Hi, I'm <strong>Adrita Dasgupta</strong> ✨</h1>
+<h3 align="center">Frontend Developer • ECE Engineer • Creative Soul</h3>
 
-<!--
-**a-lost-witch/a-lost-witch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-lost-witch&theme=tokyonight" alt="streak stats"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌙 About Me
+I'm Adrita — a B.Tech ECE graduate with a love for technology, creativity, and stories.  
+I enjoy crafting clean, aesthetic user interfaces and blending engineering logic with design.
+
+### ✨ What I Love
+- 📝 Writing stories & exploring fantasy worlds  
+- 🎨 Photo editing & creating visuals  
+- 🎧 Music that inspires creativity  
+- 📚 Reading books that spark imagination  
+- 💡 Electronics & instrumentation experiments  
+
+---
+
+## 🪄 Skills
+
+### **Frontend Development**
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="35"/>
+</div>
+
+### **Tech & Engineering**
+- SQL  
+- Digital Electronics  
+- Instrumentation  
+- Basic Microcontrollers  
+
+---
+
+## 🌌 My GitHub Universe
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=a-lost-witch&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lost-witch&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔮 Aesthetic Badges
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=a-lost-witch&label=Profile%20Views&color=8a63f6&style=flat-square" />
+  <img src="https://img.shields.io/badge/Mood-Dreamy%20🌙-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Theme-Dark%20Magic%20✨-6A5ACD?style=flat-square" />
+</p>
+
+---
+
+## 📖 Currently Exploring
+- Advanced CSS  
+- JavaScript  
+- UI/UX design inspirations  
+- Creative coding & animations  
+
+---
+
+## 🌐 Connect with Me
+<p>
+Linkedin: https:www.limkedin.com/in/adrita-das-gupta<a href="https://github.com/a-lost-witch">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">  
+✨ *Thanks for visiting my little corner of the internet.* ✨  
+</p>
