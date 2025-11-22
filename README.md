@@ -63,9 +63,9 @@ I enjoy crafting clean, aesthetic user interfaces and blending engineering logic
 ---
 
 ## 🌐 Connect with Me
-<p>
-Linkedin: https:www.linkedin.com/in/adrita-das-gupta<a href="https://github.com/a-lost-witch">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrita-das-gupta">
+    <img src="https://img.shields.io/badge/LinkedIn-Adrita%20Dasgupta-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
