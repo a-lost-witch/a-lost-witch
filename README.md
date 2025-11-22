@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">✨ Hi, I'm <strong>Adrita Dasgupta</strong> ✨</h1>
-<h3 align="center">Frontend Developer • ECE Engineer • Creative Soul</h3>
+<h3 align="center"> Aspiring Frontend Developer • ECE Engineer • Creative Soul</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-lost-witch&theme=tokyonight" alt="streak stats"/>
@@ -9,7 +9,7 @@
 ---
 
 ## 🌙 About Me
-I'm Adrita — a B.Tech ECE graduate with a love for technology, creativity, and stories.  
+I'm an awkard B.Tech ECE graduate with a love for technology, creativity, and stories.  
 I enjoy crafting clean, aesthetic user interfaces and blending engineering logic with design.
 
 ### ✨ What I Love
@@ -64,7 +64,7 @@ I enjoy crafting clean, aesthetic user interfaces and blending engineering logic
 
 ## 🌐 Connect with Me
 <p>
-Linkedin: https:www.limkedin.com/in/adrita-das-gupta<a href="https://github.com/a-lost-witch">
+Linkedin: https:www.linkedin.com/in/adrita-das-gupta<a href="https://github.com/a-lost-witch">
     <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
