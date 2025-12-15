@@ -1,0 +1,32 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="magicGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+
+    <filter id="magicGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur">
+        <animate attributeName="stdDeviation"
+                 values="3;6;3"
+                 dur="3s"
+                 repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="50%" y="55%"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-size="26"
+        font-family="Georgia, serif"
+        fill="url(#magicGradient)"
+        filter="url(#magicGlow)">
+    Thanks for visiting a lost witch's little corner in the internet
+  </text>
+</svg>
