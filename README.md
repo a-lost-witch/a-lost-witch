@@ -71,6 +71,7 @@ I enjoy crafting clean, aesthetic user interfaces and blending engineering logic
 
 ---
 
-<p align="center">  
-✨ *Thanks for visiting my little corner of the internet.* ✨  
+<p align="center">
+  <img src="./glow.svg" />
 </p>
+
