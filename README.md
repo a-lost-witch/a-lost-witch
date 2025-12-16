@@ -1,16 +1,11 @@
 <!-- Header -->
 <h1 align="center">✨ Hi, I'm <strong>Adrita Dasgupta</strong> ✨</h1>
-<h3 align="center"> Aspiring Frontend Developer • ECE Engineer • Creative Soul</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a-lost-witch&theme=tokyonight" alt="streak stats"/>
-</p>
+<h3 align="center"> Frontend Development Enthusiast • Electronics Engineer • Creative Soul</h3>
 
 ---
 
 ## 🌙 About Me
-I'm an awkard B.Tech ECE graduate with a love for technology, creativity, and stories.  
-I enjoy crafting clean, aesthetic user interfaces and blending engineering logic with design.
+I'm a curious, caffeine-fueled B.Tech ECE graduate with a love for technology, creativity, and stories. I like making aesthetic user interfaces, working with IOT,electronic equipments and blending logic with design.
 
 ### ✨ What I Love
 - 📝 Writing stories & exploring fantasy worlds  
@@ -55,10 +50,10 @@ I enjoy crafting clean, aesthetic user interfaces and blending engineering logic
 ---
 
 ## 📖 Currently Exploring
-- Advanced CSS  
+- HTML
+- CSS  
 - JavaScript  
 - UI/UX design inspirations  
-- Creative coding & animations  
 
 ---
 
