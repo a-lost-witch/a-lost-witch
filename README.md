@@ -5,7 +5,7 @@
 ---
 
 ## 🌙 About Me
-I'm a curious, caffeine-fueled B.Tech ECE graduate with a love for technology, creativity, and stories. I like making aesthetic user interfaces, working with IOT,electronic equipments and blending logic with design.
+I'm a curious, caffeine-fueled B.Tech ECE graduate with a love for technology, creativity, and stories. I like making aesthetic user interfaces, working with IOT and electronic equipment and blending logic with design.
 
 ### ✨ What I Love
 - 📝 Writing stories & exploring fantasy worlds  
